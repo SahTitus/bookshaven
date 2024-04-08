@@ -9,7 +9,6 @@ import CartSpecsModal from '@components/CartSpecsModal'
 import { UserSession } from '@components/UserSession'
 
 const inter = Inter({ subsets: ['latin'] })
-
 export const metadata = {
   title: siteName,
   siteName: siteName,

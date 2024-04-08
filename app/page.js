@@ -97,7 +97,7 @@ export default async function Home() {
       "category": "Classic",
       "category_id": "classic",
       "image": "https://picsum.photos/200/300?random=4",
-      "pages": [180],
+      "pages": [18],
       "bookmarks": [],
       "publishedAt": "1925-04-10",
       "modifiedAt": "2024-04-06T12:00:00.000Z"
