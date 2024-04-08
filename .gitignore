@@ -42,3 +42,6 @@ note.txt
 note.txt
 note
 .gitignore
+
+/history
+history
